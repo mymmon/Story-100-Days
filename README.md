@@ -17,7 +17,7 @@
 - 目录名称上的 emoji 用于区分作者
 
     - 🌸 是[Gaga酱](https://github.com/mymmon)
-
+    - 🍟 是[江五渣](https://github.com/JalanJiang)
 
 - `README.md` 要带上**打卡日期**及**作者的大名**
 
