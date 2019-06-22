@@ -1,7 +1,6 @@
-# DAY-08 Kaweh 进化论
+# Kaweh 进化论
 
-## 作者：Gaga酱
-
+> 作者：Gaga酱
 
 其实我曾经叫，Kaweh，这是一个很酷的名字。
 
