@@ -5,6 +5,7 @@
     * [🦊狐狸](animal/fox/)
 * 美食故事系列
     * [🍔吃吃](food/eat/)
+        * [番茄小姐的他](food/eat/番茄小姐的他.md)
         * [I believe](food/eat/i-believe.md)
         * [他和她](food/eat/他和她.md)
         * [卤味婚姻](food/eat/卤味婚姻.md)
@@ -12,6 +13,9 @@
         * [美味的端午节日常](food/eat/美味的端午节日常.md)
         * [贫穷面与富贵面](food/eat/贫穷面与富贵面.md)
         * [鸭血独白](food/eat/鸭血独白.md)
+        * [斯德哥尔摩 · 皮](food/eat/斯德哥尔摩皮.md)
+        * [三三三侠五义](food/eat/三三三侠五义.md)
+        * [东兰花先生和西兰花小姐](food/eat/东兰花先生和西兰花小姐.md)
     * [🍻喝喝](food/drink/)
         * [Kaweh 进化论](food/drink/Kaweh进化论.md)
         * [珍珠奶茶二三事](food/drink/珍珠奶茶二三事.md)
