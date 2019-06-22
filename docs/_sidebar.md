@@ -16,6 +16,7 @@
         * [斯德哥尔摩 · 皮](food/eat/斯德哥尔摩皮.md)
         * [三三三侠五义](food/eat/三三三侠五义.md)
         * [东兰花先生和西兰花小姐](food/eat/东兰花先生和西兰花小姐.md)
+        * [被遗忘的蛋糕](food/eat/被遗忘的蛋糕.md)
     * [🍻喝喝](food/drink/)
         * [Kaweh 进化论](food/drink/Kaweh进化论.md)
         * [珍珠奶茶二三事](food/drink/珍珠奶茶二三事.md)
