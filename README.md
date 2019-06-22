@@ -1,4 +1,4 @@
-<div align=center><img src='https://github.com/mymmon/Story-100-Days/blob/master/_Pic/%E8%9B%8B%E7%B3%95.png' /></div>
+<div align=center><img src='./_Pic/蛋糕.png' /></div>
 
 # Cake
 
@@ -19,10 +19,8 @@
     - 🌸 是[Gaga酱](https://github.com/mymmon)
     - 🍟 是[江五渣](https://github.com/JalanJiang)
 
-- `README.md` 要带上**打卡日期**及**作者的大名**
-
 - 没有规范就是规范
 
 欢迎关注我的`个人公众号`—— **嘎嘎的涂鸦乱画**
 
-<div align=center><img src='https://github.com/mymmon/Story-100-Days/blob/master/_Pic/wechat.png' /></div>
+<div align=center><img src='./_Pic/wechat.png' /></div>
